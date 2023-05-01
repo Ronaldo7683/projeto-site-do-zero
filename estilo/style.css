@@ -62,7 +62,7 @@ header {
 
 header > h1 {
     color: #574b4b;
-    font-family: var(--fonte-nuvel);
+    font-family: var(--fonte-padrão);
     font-size: 4em;
     margin-bottom: 10px;
     text-shadow: 3px 3px 0px rgb(0, 0, 0);
@@ -134,7 +134,7 @@ main h2 {
 }
 
 main p {
-    font-family: var(--fonte-paragrafo);
+    font-family: var(--fonte-padrão);
     margin: 15px 0px;
     text-align: justify;
     text-indent: 15px;
